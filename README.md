@@ -5,9 +5,11 @@
 )](https://wa.me/5511941957117)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/wesleialmeidamuniz/)
+<div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WesleiAlmeidaMuniz&show_icons=true&theme=dark">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleiAlmeidaMuniz&layout=compact&theme=dark">
+</div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WesleiAlmeidaMuniz&show_icons=true&theme=dark">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleiAlmeidaMuniz&layout=compact&theme=dark">
 
 
 ## Tecnologias que uso no meu dia
