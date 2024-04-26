@@ -1,6 +1,11 @@
 
 # Olá! Eu sou o Weslei Almeida Muniz!
 
+Eterno aprendiz da tecnologia, focado em aprender cada dia mais desse mundo tão vasto.
+Gamer nas horas vagas
+
+## Conecte-se Comigo
+
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 )](https://wa.me/5511941957117)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
